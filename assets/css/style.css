@@ -1,0 +1,42 @@
+body { 
+    background-image: url("../images/dback.jpg");
+}
+
+#train-schedule-table th,
+td {
+    display: inline-block;
+    width: 20%;
+}
+
+.tright {
+    float: right;
+    font-size: 20px;
+    padding: 0 13px 0px 0px;
+}
+
+.card-title {
+    background-color: darkcyan;
+    width: 100%;
+    padding: 1px 0px 0px 14px;
+    margin: 0px 0px 0 0px;
+    color: white;
+    font-family: serif;
+    border: 2px solid black;
+}
+
+.card-title2 {
+    background-color: darkcyan;
+    width: 100%;
+    padding: 1px 0px 0px 14px;
+    margin: 0px 0px 0 0px;
+    color: white;
+    font-family: serif;
+    border: 2px solid black;
+}
+
+.card-body {
+    -webkit-box-flex: 1;
+    flex: 1 1 auto;
+    padding: 0px;
+    border: 7px solid black;
+}
